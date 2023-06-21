@@ -10,3 +10,7 @@ console.log(
   typeof country,
   typeof language
 );
+
+console.log(`Multiple
+line test for
+template literal`);
